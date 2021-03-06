@@ -57,7 +57,7 @@ social:
   link: https://www.linkedin.com/in/jincheng-eric-huang-0a01655a
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/cv.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -72,4 +72,4 @@ highlight_name: false
 
 I am a Ph.D. candidate in economics at University of Pennsylvania. My main field is macroeconomics, with particular interests in wealth inequality and its interactions with job search.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
