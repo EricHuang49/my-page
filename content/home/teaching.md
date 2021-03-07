@@ -20,4 +20,4 @@ weight = 100
 _Teaching Assistant_
 
 + Econ 010: Introductory Economics for Business Students (2018 Fall, 2019 Fall)
-+ Econ 002: Introductory Economics: Macroeconomics, (2019 Spring)
++ Econ 002: Introductory Economics: Macroeconomics (2019 Spring)
