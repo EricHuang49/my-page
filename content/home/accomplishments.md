@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of Pennsylvania"
   organization_url = "https://www.upenn.edu/"
-  title = "Xingmei Zhang \& Yongge Dai Fellowship"
+  title = "Xingmei Zhang & Yongge Dai Fellowship"
   url = ""
   certificate_url = ""
   date_start = "2018-01-01"
