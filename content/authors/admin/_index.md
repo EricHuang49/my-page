@@ -11,7 +11,7 @@ role: Ph.D. Candidate in Economics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Pennsylvania
-  url: "https://economics.sas.upenn.edu/"
+  url: https://www.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Ph.D. Candidate in economics at University of Pennsylvania.

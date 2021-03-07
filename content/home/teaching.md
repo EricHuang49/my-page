@@ -1,18 +1,21 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/teaching/`.
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"
+active = true
+date = "2016-04-20T00:00:00"
 
-widget = "custom"  # See https://sourcethemes.com/academic/docs/page-builder/
-active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
-
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
 subtitle = ""
 
 
+# Order that this section will appear in.
+weight = 100
+
 +++
 <h3>University of Pennsylvania</h3>
-
-_Recitation Instructor_
+### Recitation Instructor
 - Econ 010: Introductory Economics for Business Students, *2018 Fall, 2019 Fall*
 - Econ 002: Introductory Economics: Macroeconomics, *2019 Spring*
