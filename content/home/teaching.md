@@ -16,6 +16,8 @@ weight = 100
 
 +++
 <h3>University of Pennsylvania</h3>
-### Recitation Instructor
-- Econ 010: Introductory Economics for Business Students, *2018 Fall, 2019 Fall*
-- Econ 002: Introductory Economics: Macroeconomics, *2019 Spring*
+
+_ Recitation Instructor_
+
++ Econ 010: Introductory Economics for Business Students (2018 Fall, 2019 Fall)
++ Econ 002: Introductory Economics: Macroeconomics, (2019 Spring)

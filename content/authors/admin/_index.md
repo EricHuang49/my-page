@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Pennsylvania
-    year: Expected 2023
+    year: In Progress
   - course: MS in Economics
     institution: University of Pennsylvania
     year: 2020
