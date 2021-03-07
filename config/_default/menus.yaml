@@ -13,7 +13,7 @@ main:
     url: media/CV.pdf
     weight: 20
   - name: Research
-    url: '#workingpaper'
+    url: '#publications'
     weight: 30
   - name: Teaching
     url: '#teaching'
