@@ -19,8 +19,8 @@ bio: I am a Ph.D. Candidate in economics at University of Pennsylvania.
 # Interests to show in About widget
 interests:
 - Macroeconomics
+- Household finance
 - Labor economics
-- Urban economics
 
 # Education to show in About widget
 education:
@@ -31,7 +31,7 @@ education:
   - course: MS in Economics
     institution: University of Pennsylvania
     year: 2020
-  - course: BA in Economics and Mathematics
+  - course: BA in Economics and Mathematics (with Honor)
     institution: University of Wisconsin - Madison
     year: 2015
 
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. candidate in economics at University of Pennsylvania. My research interests include wealth inequality, search and matching, and firm dynamics.
+I am a Ph.D. candidate in economics at University of Pennsylvania. My current research studies the interactions between precautionary savings motive and sorting in the labor market. I am also studying the connections between financial frictions,  household portfolio choice and inequality.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
