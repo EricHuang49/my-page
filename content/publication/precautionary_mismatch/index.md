@@ -21,8 +21,8 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "The overall productivity of an economy depends on how efficiently talents are allocated to productive activities. Using NLSY79 and O*NET, we first document that while the labor market as a whole features positive assortative matching (PAM) based on observables, the degree of sorting seems to vary by the amount of wealth owned by workers. Workers who enter the labor market with lower liquid wealth experience shorter unemployment period and greater skill mismatch. Wage data suggests that skill mismatch could lead to output loss as greater mismatch is associated with lower wages. To understand the macro implications of mismatch and its relationship with wealth, we construct an incomplete market model with heterogeneous workers and firms where skill mismatch arises due to search frictions. Precautionary saving motive induces wealth-poor workers to accept a wider range of jobs at the expense of potentially lower wages and match-specific output. We show that an improvement
-in workers’ ability to smooth consumption leads to stronger sorting, which in turn increases average output per worker. This insight suggests a new channel through which policies such as unemployment insurance can affect aggregate productivity, i.e. an improvement in the allocative efficiency of the labor market."
+abstract: "The overall productivity of an economy depends on how efficiently talents are allocated to productive activities. Using NLSY79 and O*NET, we first document that while the labor market as a whole features positive assortative matching (PAM) based on observables, the degree of sorting seems to vary by the amount of wealth owned by workers. Workers who enter the labor market with lower liquid wealth experience shorter unemployment period and greater skill mismatch. Wage data suggests that skill mismatch could lead to output loss as greater mismatch is associated with lower wages. To understand the macro implications of mismatch and its relationship with wealth, we construct an incomplete market model with heterogeneous workers and firms where skill mismatch arises due to search frictions. Precautionary motive induces wealth-poor workers to accept a wider range of jobs at the expense of potentially lower wages and productivity. We show that an improvement
+in workers’ ability to smooth consumption leads to stronger sorting, which in turn increases aggregate productivity. This insight suggests a new channel through which policies such as unemployment insurance can affect the aggregate, i.e. an improvement in the allocative efficiency of the labor market."
 
 # Summary. An optional shortened abstract.
 summary: We
@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/precautionary_mismatch.pdf'
+url_pdf: #'uploads/precautionary_mismatch.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

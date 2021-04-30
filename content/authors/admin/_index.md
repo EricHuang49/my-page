@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. candidate in economics at University of Pennsylvania. My current research studies the interactions between precautionary savings motive and sorting in the labor market. I am also studying the connections between financial frictions,  household portfolio choice and inequality.
+I am a Ph.D. candidate in economics at University of Pennsylvania. My current research studies how wealth inequality affects labor market sorting and aggregate productivity. I am also studying the connections between financial frictions,  household portfolio choice and wealth inequality.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
