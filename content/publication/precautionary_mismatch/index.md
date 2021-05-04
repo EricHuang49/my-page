@@ -2,7 +2,7 @@
 title: "Precautionary Mismatch"
 authors:
 - Jincheng (Eric) Huang
-- [Xincheng Qiu](https://www.xinchengqiu.com/)
+- Xincheng Qiu
 date: "2021-02-12T00:00:00Z"
 doi: ""
 
@@ -25,7 +25,7 @@ abstract: "The overall productivity of an economy depends on how efficiently tal
 in workers’ ability to smooth consumption leads to stronger sorting, which in turn increases aggregate productivity. This insight suggests a new channel through which policies such as unemployment insurance can affect the aggregate, i.e. an improvement in the allocative efficiency of the labor market."
 
 # Summary. An optional shortened abstract.
-summary: We
+summary:
 tags:
 - Precautionary Savings
 - Skill Mismatch
