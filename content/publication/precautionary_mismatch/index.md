@@ -3,7 +3,7 @@ title: "Precautionary Mismatch"
 authors:
 - Jincheng (Eric) Huang
 - Xincheng Qiu
-date: "2021-02-12T00:00:00Z"
+date: "2021-05-28T00:00:00Z"
 doi: ""
 
 weight: 1
@@ -21,14 +21,13 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "The overall productivity of an economy depends on how efficiently talents are allocated to productive activities. Using NLSY79 and O*NET, we first document that while the labor market as a whole features positive assortative matching (PAM) based on observables, the degree of sorting seems to vary by the amount of wealth owned by workers. Workers who enter the labor market with lower liquid wealth experience shorter unemployment period and greater skill mismatch. Wage data suggests that skill mismatch could lead to output loss as greater mismatch is associated with lower wages. To understand the macro implications of mismatch and its relationship with wealth, we construct an incomplete market model with heterogeneous workers and firms where skill mismatch arises due to search frictions. Precautionary motive induces wealth-poor workers to accept a wider range of jobs at the expense of potentially lower wages and productivity. We show that an improvement
-in workers’ ability to smooth consumption leads to stronger sorting, which in turn increases aggregate productivity. This insight suggests a new channel through which policies such as unemployment insurance can affect the aggregate, i.e. an improvement in the allocative efficiency of the labor market."
+abstract: "How does wealth affect the extent to which the “right” workers are allocated to the “right” jobs? We study this question using a model with worker and firm heterogeneity, search frictions and incomplete markets. In the model, workers and firms jointly face a trade-off between the speed of match formation and the productivity of a match. As production-maximizing matches are hard to form due to search frictions, workers and firms agree on a range of mutually-acceptable matches. For workers having little wealth while searching for jobs, this trade-off is weighed in favor of speed due to precautionary motive, leading to weaker sorting and thus a higher degree of skill mismatch. We call this phenomenon “precautionary mismatch”. We show that the model's predictions of the relationships between wealth, search behavior and labor market outcomes are consistent with empirical evidence from NLSY79 and O*NET. To shed light on the role of wealth in affecting labor market allocation and efficiency, we conduct a counterfactual exercise using a financial shock that erases 50% of wealth held by workers. We find that by exacerbating precautionary mismatch, the shock leads to a substantial decrease in productivity, especially for high-skilled workers."
 
 # Summary. An optional shortened abstract.
 summary:
 tags:
 - Precautionary Savings
-- Skill Mismatch
+- Mismatch
 - Search and Matching
 featured: false
 
@@ -40,7 +39,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'uploads/ESPE_2021.pdf'
 url_source: ''
 url_video: ''
 
