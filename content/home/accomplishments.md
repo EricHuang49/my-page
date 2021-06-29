@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Federal Reserve Bank of St. Louis"
+  organization_url = "https://www.stlouisfed.org/"
+  title = "Dissertation Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-08-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "National Science Foundation"
   organization_url = "https://www.nsf.org/"
   title = "Graduate Research Fellowship"
