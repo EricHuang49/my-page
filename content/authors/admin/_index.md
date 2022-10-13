@@ -19,8 +19,8 @@ bio: I am a Ph.D. Candidate in economics at University of Pennsylvania.
 # Interests to show in About widget
 interests:
 - Macroeconomics
-- Household finance
 - Labor economics
+- Household finance
 
 # Education to show in About widget
 education:
@@ -70,6 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. candidate in economics at University of Pennsylvania. My current research studies how wealth inequality affects labor market sorting and aggregate productivity. I am also studying the connections between financial frictions,  household portfolio choice and wealth inequality.
+I am a Ph.D. candidate in economics at University of Pennsylvania. My job market paper studies how household precautionary motive affects labor market productivity by shaping the sorting between workers and firms in a frictional labor market. I am also studying the determinants of household wealth accumulation, health investment, and the interaction between the two.
+
+I am on the 2022/2023 job market.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
