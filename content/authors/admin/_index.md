@@ -25,13 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Economics
+  - course: Ph.D. in Economics
     institution: University of Pennsylvania
-    year: In Progress
-  - course: MS in Economics
+    year: 2023 (expected)
+  - course: M.S. in Economics
     institution: University of Pennsylvania
     year: 2020
-  - course: BA in Economics and Mathematics (with Honor)
+  - course: B.A. in Economics and Mathematics (with Honor)
     institution: University of Wisconsin - Madison
     year: 2015
 
@@ -70,8 +70,10 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. candidate in economics at University of Pennsylvania. My job market paper studies how household precautionary motive affects labor market productivity by shaping the sorting between workers and firms in a frictional labor market. I am also studying the determinants of household wealth accumulation, health investment, and the interaction between the two.
+I am a Ph.D. candidate in economics at University of Pennsylvania. My research interest focuses on the macroeconomic implications of inequality.
+
+My job market paper studies how allocative efficiency in the labor market can be influenced by households' precautionary motive.
 
 I am on the 2022/2023 job market.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+Find my CV {{< staticref "media/cv.pdf" "newtab" >}}here{{< /staticref >}}.
