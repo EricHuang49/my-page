@@ -22,6 +22,7 @@ removePathAccents: true
 
 module:
   imports:
+    # Add the Netlify CMS module below, if it has not already been added:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
 

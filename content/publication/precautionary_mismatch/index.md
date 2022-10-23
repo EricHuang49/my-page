@@ -1,5 +1,6 @@
 ---
 title: "Precautionary Mismatch"
+summary: "Presented at (selected):  Penn, NIPFP-IIPF Conference on Public Finance, CMES 2021, SED 2021, Dale T. Mortensen Centre Conference, Conference in Honor of Juan J. Dolado, Essex/RHUL/Bristol Junior Search and Matching Workshop, St. Louis Fed, Warwick Economics PhD Conference, WUSTL EGSC"
 authors:
 - Jincheng (Eric) Huang
 - Xincheng Qiu
@@ -45,7 +46,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image: 
+image:
   caption: ''
   focal_point: ""
   preview_only: false
