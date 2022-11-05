@@ -18,6 +18,9 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 40
+  - name: Test
+    url: 'test/workingpaper2'
+    weight: 50
   #- name: Contact
   #  url: '#contact'
   #  weight: 50
