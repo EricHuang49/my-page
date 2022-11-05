@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: How does wealth affect the extent to which the "right" workers are matched with the "right" jobs? Using the NLSY data, we document that wealth-poor workers are more mismatched with their jobs. We develop a model featuring worker and firm heterogeneity, search frictions, and incomplete markets. Workers and firms face a trade-off between the speed and payoff of forming a match. A lack of wealth induces workers to weigh this trade-off in favor of finding a job faster due to precautionary motives, leading to a higher degree of mismatch. We call this phenomenon "precautionary mismatch" and show that it leads to substantial within-type earnings and productivity gaps between the wealth-rich and the wealth-poor, especially among high-skilled workers. We estimate that total output would be 3% higher in the US if all employed workers were allocated to the right jobs. In a quantitative experiment, we find that wealth transfers from the old to young labor market entrants reduce within-type earnings and productivity gaps, improve sorting, and enhance labor productivity. Most of the productivity effect comes from decreased under-employment of high-skilled workers.
+abstract: How does wealth affect the extent to which the "right" workers are matched with the "right" jobs? Using the NLSY79 and O*NET, we document that wealth-poor workers are more mismatched with their jobs. We develop a model featuring worker and firm heterogeneity, search frictions, and incomplete markets. Workers and firms jointly face a trade-off between the speed and payoff of forming a match. A lack of wealth induces workers to trade off wages for finding a job faster due to precautionary motives, which in turn gives a wider range of firms the incentive to match. We refer to this phenomenon as "precautionary mismatch" and show that it leads to substantial within-type earnings and productivity gaps between the wealth-rich and the wealth-poor, especially among high-skilled workers. We estimate that total output would be 3% higher in the US if all employed workers were allocated to the right jobs. In a quantitative experiment, we find that wealth transfers from incumbent workers to young labor market entrants reduce within-type earnings and productivity inequality, improve sorting, and enhance labor productivity. Most of the productivity increase comes from reduced under-employment of high-skilled workers.
 
 # Summary. An optional shortened abstract.
 summary: "Presented at (selected):  Penn, NIPFP-IIPF Conference on Public Finance, CMES 2021, SED 2021, Dale T. Mortensen Centre Conference, Conference in Honor of Juan J. Dolado, Essex/RHUL/Bristol Junior Search and Matching Workshop, St. Louis Fed, Warwick Economics PhD Conference, WUSTL Economic Graduate Student Conference, Trans-Atlantic Doctoral Conference"
@@ -35,12 +35,12 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: #'uploads/precautionary_mismatch.pdf'
+url_pdf: 'uploads/precautionary_mismatch.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'uploads/ESPE_2021.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
