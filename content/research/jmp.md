@@ -11,7 +11,7 @@ active: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Recent Publications
+title: Job Market Paper
 subtitle: ''
 
 content:
@@ -34,10 +34,6 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: compcat
   columns: '2'
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
