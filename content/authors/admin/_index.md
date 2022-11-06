@@ -76,4 +76,6 @@ My job market paper studies how allocative efficiency in the labor market can be
 
 I am on the 2022/2023 job market.
 
-Find my CV {{< staticref "media/cv.pdf" "newtab" >}}here{{< /staticref >}}.
+Find my CV {{< staticref "media/cv.pdf" "newtab" >}}here{{< /staticref >}} and my research statement {{< staticref "media/Research_Statement.pdf" "newtab" >}}here{{< /staticref >}}.
+
+Contact: jnhuang at sas dot upenn dot edu.
