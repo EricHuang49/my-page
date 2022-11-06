@@ -18,7 +18,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - research
+      - jmp
     tag: ''
     category: ''
     publication_type: ''
