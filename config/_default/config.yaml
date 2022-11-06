@@ -11,7 +11,7 @@ backend:
     - editor
   branch: main
 
-title: Jincheng (Eric) Huang # Website name
+title: Eric Huang # Website name
 baseURL: 'https://www.jincheng-huang.com/' # Website URL
 
 ############################

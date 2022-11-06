@@ -14,7 +14,7 @@ organizations:
   url: https://www.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. Candidate in economics at University of Pennsylvania.
+bio: Ph.D. Candidate in economics at University of Pennsylvania.
 
 # Interests to show in About widget
 interests:
