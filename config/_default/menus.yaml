@@ -10,7 +10,7 @@ main:
   - name: CV
     url: media/CV.pdf
   - name: Research
-    url: research/
+    url: '#jmp'
     weight: 20
   # - name: Posts
   #   url: '#posts'
