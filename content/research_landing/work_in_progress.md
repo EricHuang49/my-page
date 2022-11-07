@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: collection
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -14,14 +14,19 @@ weight: 20
 title: Works in Progress
 subtitle: ''
 
+
 content:
+
+  # Page type to display. E.g. post, talk, or publication.
+  page_type: publication
+
   # Filter on criteria
   filters:
     folders:
       - papers
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '4'
     author: ''
     exclude_featured: false
     exclude_future: false
@@ -32,6 +37,7 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  
 design:
   # Choose a view for the listings:
   view: 4
