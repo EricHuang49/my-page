@@ -9,7 +9,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
 title: Job Market Paper
 subtitle: ''
@@ -35,5 +35,5 @@ content:
 design:
   # Choose a view for the listings:
   view: citation
-  columns: '2'
+  columns: '1'
 ---
