@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: collection
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -15,6 +15,7 @@ title: Job Market Paper
 subtitle: ''
 
 content:
+  page_type: publication
   # Filter on criteria
   filters:
     folders:
