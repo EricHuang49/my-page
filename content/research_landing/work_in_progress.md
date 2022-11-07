@@ -26,7 +26,7 @@ content:
       - papers
     tag: ''
     category: ''
-    publication_type: '4'
+    publication_type: ''
     author: ''
     exclude_featured: false
     exclude_future: false

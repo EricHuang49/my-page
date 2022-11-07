@@ -36,4 +36,7 @@ design:
   # Choose a view for the listings:
   view: 2
   columns: '1'
+
+advanced:
+  css_style: '/style.css'
 ---
