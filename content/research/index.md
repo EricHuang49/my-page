@@ -1,9 +1,8 @@
 ---
 title: "Research"
 
-# Homepage
-type: widget_page
+date: "2019-01-01T00:00:00Z"  # Add today's date.
 
-# Homepage is headless, other widget pages are not.
-headless: true
+# Homepage
+type: "widget_page"
 ---
