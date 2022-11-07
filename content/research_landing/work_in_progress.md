@@ -16,10 +16,6 @@ subtitle: ''
 
 
 content:
-
-  # Page type to display. E.g. post, talk, or publication.
-  page_type: publication
-
   # Filter on criteria
   filters:
     folders:
