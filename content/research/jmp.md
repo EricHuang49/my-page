@@ -36,4 +36,8 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '1'
+
+advanced:
+  css_style: 'custom'
+  css_class: 'custom'
 ---
