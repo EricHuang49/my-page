@@ -14,12 +14,11 @@ weight: 30
 title: Works in Progress
 subtitle: ''
 
-
 content:
   # Filter on criteria
   filters:
     folders:
-      - papers
+      - publication
     tag: ''
     category: ''
     publication_type: ''

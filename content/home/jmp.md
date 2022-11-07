@@ -21,7 +21,7 @@ content:
       - jmp
     tag: ''
     category: ''
-    publication_type: '3'
+    publication_type: ''
     author: ''
     exclude_featured: false
     exclude_future: false
