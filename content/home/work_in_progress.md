@@ -21,7 +21,7 @@ content:
       - publication
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '4'
     author: ''
     exclude_featured: false
     exclude_future: false
