@@ -9,7 +9,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
 title: Job Market Paper
 subtitle: ''
@@ -34,10 +34,13 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
-  columns: '1'
+  view: compact
+  columns: '2'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["80px", "0", "0", "0"]
 
-advanced:
-  css_style: 'custom'
-  css_class: 'custom'
+#advanced:
+#  css_style: 'custom'
+#  css_class: 'custom'
 ---

@@ -72,7 +72,7 @@ highlight_name: false
 
 I am a Ph.D. candidate in economics at University of Pennsylvania. My research interest focuses on the macroeconomic implications of inequality.
 
-My job market paper studies how allocative efficiency in the labor market can be influenced by households' precautionary motive.
+My job market paper studies how allocative efficiency in the labor market can be influenced by households' wealth holdings.
 
 I am on the 2022/2023 job market.
 

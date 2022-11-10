@@ -23,7 +23,7 @@ publication_short: ""
 abstract: "In this paper we identify labor market sorting in an environment where workers and firms form matches based on unobserved (to economists) characteristics and where nonproductive characteristics (such as wealth) play a role in their matching decisions, based on the method developed by Hagedorn, Law and Manovskii (2017)."
 
 # Summary. An optional shortened abstract.
-summary:
+summary: " "
 tags:
 - Sorting
 - Identification

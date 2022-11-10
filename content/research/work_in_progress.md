@@ -35,8 +35,8 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: 4
-  columns: '1'
+  view: compact
+  columns: '2'
 
 advanced:
   css_style: '/style.css'
