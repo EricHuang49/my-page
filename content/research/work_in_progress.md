@@ -37,6 +37,9 @@ design:
   # Choose a view for the listings:
   view: compact
   columns: '2'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["0", "0", "80px", "0"]
 
 advanced:
   css_style: '/style.css'
