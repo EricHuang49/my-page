@@ -70,6 +70,16 @@ email: ""
 highlight_name: false
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPG6T0F3V2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CPG6T0F3V2');
+</script>
+
 I am a Ph.D. candidate in economics at University of Pennsylvania. My research interest focuses on the macroeconomic implications of inequality.
 
 My job market paper studies how allocative efficiency in the labor market can be influenced by households' wealth holdings.
