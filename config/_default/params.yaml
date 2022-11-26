@@ -67,7 +67,8 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: circle
+    # Choose a shape for avatar images. Options: circle, square.
+    shape: square
   comment:
     provider: ''
     disqus:
