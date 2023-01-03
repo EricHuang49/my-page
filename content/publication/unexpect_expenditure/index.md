@@ -19,13 +19,14 @@ publication_types: ["4"]
 publication: ""
 publication_short: ""
 
-abstract: "Every year, tens of millions of adults in the US rely on high-cost credit such as payday loans for liquidity, and most loans are rolled-over multiple times, resulting in high accumulated fees. I find that the use of high-cost credit is associated with (a series of) unexpected expenditures in families with low income. Using PSID and the Consumer Expenditure Survey, I document the variation in shares of unexpected expenditure in household spending across households of different income and wealth profiles. I provide a theory of earnings, wealth and expense uncertainty and study the conditions under which frequent borrowing of high-cost credit arises. "
+abstract: "A large number of households in the US hold little or even negative liquid wealth for prolonged periods of time, and face a high marginal cost of borrowing. I find that the use of high-cost credit such as payday loans is associated with (a series of) unexpected expenditures in families with low permanent income. Using PSID and the Consumer Expenditure Survey, I document that unexpected expenditures such as hospital visits and repairs tend to be more pervasive among low-wealth households. I construct a model where households face a trade-off between saving and life quality investment. A lack of investment in life quality leads to a deficit which increases the propensity of expenditure shocks. I study the effect of redistribution policies on reducing the occurrence of expenditure shocks and consequently the use of high-cost credit, as well as the welfare implications."
 
 # Summary. An optional shortened abstract.
 summary: " "
 tags:
 - Consumption and savings
 - Consumer credit
+- High-cost credit
 - Financial constraints
 featured: false
 
