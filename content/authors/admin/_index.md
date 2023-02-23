@@ -84,8 +84,8 @@ I am a Ph.D. candidate in economics at University of Pennsylvania. My research i
 
 My job market paper studies how allocative efficiency in the labor market can be influenced by households' wealth holdings.
 
-I am on the 2022/2023 job market.
+I will join the International Monetary Fund as an Economist (EP) in fall 2023.
 
-Find my CV {{< staticref "media/cv.pdf" "newtab" >}}here{{< /staticref >}} and my research statement {{< staticref "media/Research_Statement.pdf" "newtab" >}}here{{< /staticref >}}.
+Find my CV {{< staticref "media/cv.pdf" "newtab" >}}here{{< /staticref >}}.
 
 Contact: jnhuang at sas dot upenn dot edu.
