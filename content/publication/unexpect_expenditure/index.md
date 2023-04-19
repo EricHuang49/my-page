@@ -3,11 +3,11 @@ title: "Unexpected Expenditure and High-cost Credit"
 
 authors:
 - Jincheng (Eric) Huang
-date: "2022-10-23T00:00:00Z"
+date: "2023-04-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-08-12T00:00:00Z"
+publishDate: "2023-04-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Revise and Resubmit; 2 = Journal Article;
@@ -19,21 +19,22 @@ publication_types: ["4"]
 publication: ""
 publication_short: ""
 
-abstract: "A large number of households in the US hold little or even negative liquid wealth for prolonged periods of time, and face a high marginal cost of borrowing. I find that the use of high-cost credit such as payday loans is associated with (a series of) unexpected expenditures in families with low permanent income. Using PSID and the Consumer Expenditure Survey, I document that unexpected expenditures such as hospital visits and repairs tend to be more pervasive among low-wealth households. I construct a model where households face a trade-off between saving and life quality investment. A lack of investment in life quality leads to a deficit which increases the propensity of expenditure shocks. I study the effect of redistribution policies on reducing the occurrence of expenditure shocks and consequently the use of high-cost credit, as well as the welfare implications."
+abstract: "This paper highlights the link between the utilization of high-cost consumer credits by wealth-poor households and the risks associated with household expenditures. Using the PSID and the SCF, I document that households with very limited liquid wealth and available credit while facing unexpected expenses are more likely to resort to high-cost credit options, such as payday loans. Furthermore, these unexpected expenses probably stem from specific spending categories, such as medical costs as well as vehicle and home repairs. For households at their borrowing constraints, occurrence of expenditure shocks tends to reduce consumption growth and savings rate, which impedes wealth accumulation. I discuss the role of expenditure shocks in models of consumption-savings and why they are crucial for understanding the demand for high-cost credits."
 
 # Summary. An optional shortened abstract.
 summary: " "
 tags:
-- Consumption and savings
+- Consumption
+- Savings
 - Consumer credit
 - High-cost credit
-- Financial constraints
+- Incomplete markets
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: #'uploads/precautionary_mismatch.pdf'
+url_pdf: #''
 url_code: ''
 url_dataset: ''
 url_poster: ''
