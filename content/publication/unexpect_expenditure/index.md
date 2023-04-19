@@ -34,7 +34,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content/publication/unexpected_expenditure/exp_shock_paper.pdf'
+url_pdf: 'publication/unexpected_expenditure/exp_shock_paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
