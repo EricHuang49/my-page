@@ -29,7 +29,7 @@ tags:
 - Consumer credit
 - High-cost credit
 - Incomplete markets
-featured: false
+featured: true
 
 # links:
 # - name: ""
