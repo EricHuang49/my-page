@@ -27,7 +27,7 @@ education:
   courses:
   - course: Ph.D. in Economics
     institution: University of Pennsylvania
-    year: 2023 (expected)
+    year: 2023
   - course: M.S. in Economics
     institution: University of Pennsylvania
     year: 2020
@@ -80,11 +80,9 @@ highlight_name: false
   gtag('config', 'G-CPG6T0F3V2');
 </script>
 
-I am a Ph.D. candidate in economics at University of Pennsylvania. My research interest focuses on the macroeconomic implications of inequality.
+I graduated from the University of Pennsylvania in May 2023 with a Ph.D. degree in economics.
 
-My job market paper studies how allocative efficiency in the labor market can be influenced by households' wealth holdings.
-
-I will join the International Monetary Fund as an Economist (EP) in fall 2023.
+In fall 2023, I will join the International Monetary Fund's Research Department as an Economist (EP).
 
 Find my CV {{< staticref "media/cv.pdf" "newtab" >}}here{{< /staticref >}}.
 
