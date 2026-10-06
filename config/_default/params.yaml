@@ -21,7 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: "Economist, International Monetary Fund"
     # Site meta description for search engines and social sharing
-    description: "Eric Huang is an Economist at the International Monetary Fund. Research in macroeconomics, labor economics, and household finance."
+    description: "Eric Huang is an Economist at the International Monetary Fund. Research in macroeconomics, international economics, inequality, and labor economics."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "jc_eric_huang" # Twitter/X handle for Twitter Cards (without @)
@@ -114,9 +114,9 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    notice: "© {year} {name}."
     license:
-      type: cc # cc | custom
+      type: custom # cc | custom
       allow_derivatives: false
       share_alike: true
       allow_commercial: false

@@ -9,7 +9,7 @@ name:
   pronunciation: ''
 role: Economist
 bio: |
-  I am an Economist at the International Monetary Fund. I received my Ph.D. in Economics from the University of Pennsylvania in 2023. My research is in macroeconomics, labor economics, and household finance. At the IMF, I work on labor markets, healthy aging, and public support for structural reforms.
+  I am an Economist at the International Monetary Fund. I received my Ph.D. in Economics from the University of Pennsylvania in 2023.
 
 affiliations:
   - name: International Monetary Fund
@@ -30,8 +30,9 @@ links:
 
 interests:
   - Macroeconomics
+  - International Economics
+  - Inequality
   - Labor Economics
-  - Household Finance
 
 education:
   - degree: Ph.D. in Economics
