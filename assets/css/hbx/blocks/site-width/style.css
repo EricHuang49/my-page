@@ -1,0 +1,3 @@
+/* Slightly wider reading column (smaller left/right page margins). */
+div.max-w-prose.mx-auto { max-width: 48rem; }
+div.prose.max-w-prose { max-width: none; }

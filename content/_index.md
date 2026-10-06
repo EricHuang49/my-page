@@ -32,9 +32,9 @@ sections:
       title: Publications
       subtitle: ''
       text: |-
-        **Precautionary Mismatch**<br>with Xincheng Qiu<br>*Review of Economic Studies*, conditionally accepted.<br>[Abstract](/publications/precautionary-mismatch/) · [PDF](/publications/precautionary-mismatch/Precautionary_Mismatch.pdf)
+        **Precautionary Mismatch**<br>with Xincheng Qiu<br>*Review of Economic Studies*, conditionally accepted.<br>[PDF](/publications/precautionary-mismatch/Precautionary_Mismatch.pdf)
 
-        **Are Older Adults Healthier than Before? Global Evidence on Healthy Aging**<br>with Bertrand Gruss, Andresa Lagerborg, Diaa Noureldin, and Galip Kemal Ozhan<br>*Journal of the Economics of Ageing*, 2026, Article 100638.<br>[Abstract](/publications/healthy-aging-jea/) · [Published version](https://doi.org/10.1016/j.jeoa.2026.100638) · [Working paper version](https://www.imf.org/en/Publications/WP/Issues/2025/11/06/The-Labor-Market-Implications-of-Healthy-Aging-571630) (IMF Working Paper WP/25/229, "The Labor Market Implications of Healthy Aging")
+        **Are Older Adults Healthier than Before? Global Evidence on Healthy Aging**<br>with Bertrand Gruss, Andresa Lagerborg, Diaa Noureldin, and Galip Kemal Ozhan<br>*Journal of the Economics of Ageing*, 2026, Article 100638.<br>[Published version](https://doi.org/10.1016/j.jeoa.2026.100638) · [Working paper version](https://www.imf.org/en/Publications/WP/Issues/2025/11/06/The-Labor-Market-Implications-of-Healthy-Aging-571630) (IMF Working Paper WP/25/229, "The Labor Market Implications of Healthy Aging")
     design:
       columns: '1'
       spacing:
@@ -45,13 +45,13 @@ sections:
       title: Working Papers
       subtitle: ''
       text: |-
-        **Can Healthy Aging Boost Labor Supply? Evidence from Korea**<br>with Bertrand Gruss, Andresa Lagerborg, Diaa Noureldin, and Galip Kemal Ozhan<br>IMF Working Paper WP/25/260, December 2025.<br>[Abstract](/publications/healthy-aging-korea/) · [Working paper](https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025260-source-pdf.pdf) · [KDI version](https://doi.org/10.23895/kdijep.2026.48.1.33)
+        **Can Healthy Aging Boost Labor Supply? Evidence from Korea**<br>with Bertrand Gruss, Andresa Lagerborg, Diaa Noureldin, and Galip Kemal Ozhan<br>IMF Working Paper WP/25/260, December 2025.<br>[Working paper](https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025260-source-pdf.pdf) · [KDI version](https://doi.org/10.23895/kdijep.2026.48.1.33)
 
-        **Private Participation and its Discontents: Insights from Large-Scale Surveys**<br>with Silvia Albrizio, Hippolyte Balima, Bertrand Gruss, and Colombe Ladreit<br>IMF Working Paper WP/24/216, October 2024.<br>[Abstract](/publications/private-participation/) · [Working paper](https://www.imf.org/en/publications/wp/issues/2024/10/16/private-participation-and-its-discontents-insights-from-large-scale-surveys-556365)
+        **Private Participation and its Discontents: Insights from Large-Scale Surveys**<br>with Silvia Albrizio, Hippolyte Balima, Bertrand Gruss, and Colombe Ladreit<br>IMF Working Paper WP/24/216, October 2024.<br>[Working paper](https://www.imf.org/en/publications/wp/issues/2024/10/16/private-participation-and-its-discontents-insights-from-large-scale-surveys-556365)
 
-        **Shifting Perceptions: Unpacking Public Support for Immigrant Workers Integration in the Labor Market**<br>with Silvia Albrizio, Hippolyte Balima, Bertrand Gruss, and Colombe Ladreit<br>IMF Working Paper WP/24/217, October 2024.<br>[Abstract](/publications/shifting-perceptions/) · [Working paper](https://www.imf.org/en/Publications/WP/Issues/2024/10/16/Shifting-Perceptions-Unpacking-Public-Support-for-Immigrant-Workers-Integration-in-the-556362)
+        **Shifting Perceptions: Unpacking Public Support for Immigrant Workers Integration in the Labor Market**<br>with Silvia Albrizio, Hippolyte Balima, Bertrand Gruss, and Colombe Ladreit<br>IMF Working Paper WP/24/217, October 2024.<br>[Working paper](https://www.imf.org/en/Publications/WP/Issues/2024/10/16/Shifting-Perceptions-Unpacking-Public-Support-for-Immigrant-Workers-Integration-in-the-556362)
 
-        **Unexpected Expenditure and High-cost Credit**<br>Working paper, 2022.<br>[Abstract](/publications/unexpected-expenditure/) · [PDF](/publications/unexpected-expenditure/exp_shock_paper.pdf)
+        **Unexpected Expenditure and High-cost Credit**<br>Working paper, 2022.<br>[PDF](/publications/unexpected-expenditure/exp_shock_paper.pdf)
     design:
       columns: '1'
       spacing:
