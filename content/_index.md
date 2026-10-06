@@ -11,7 +11,7 @@ sections:
       subtitle: ''
       text: |-
         <div style="display:flex;gap:2rem;align-items:center;flex-wrap:wrap;">
-        <img src="/media/eric.jpg" alt="Eric Huang" style="width:190px;height:190px;object-fit:cover;object-position:50% 12%;border-radius:50%;margin:0;">
+        <img src="/media/eric.jpg" alt="Eric Huang" style="width:190px;height:190px;object-fit:cover;object-position:50% 24%;border-radius:50%;margin:0;">
         <div style="flex:1;min-width:16rem;">
         <h1 style="margin:0 0 .25rem 0;">Eric Huang</h1>
         <p style="margin:0 0 1rem 0;">Economist, <a href="https://www.imf.org/">International Monetary Fund</a></p>
