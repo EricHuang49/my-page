@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Eric (Jincheng) Huang
+  display: Eric Huang
   given: Eric
   family: Huang
   alternate: ''
@@ -10,8 +10,6 @@ name:
 role: Economist
 bio: |
   I am an Economist at the International Monetary Fund. I received my Ph.D. in Economics from the University of Pennsylvania in 2023. My research is in macroeconomics, labor economics, and household finance. At the IMF, I work on labor markets, healthy aging, and public support for structural reforms.
-
-  *Views expressed here are my own and do not necessarily represent those of the IMF, its Executive Board, or IMF management.*
 
 affiliations:
   - name: International Monetary Fund
