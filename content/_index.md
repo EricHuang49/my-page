@@ -64,7 +64,7 @@ sections:
       text: |-
         **Anchoring Inflation Expectations: Evidence from Latin America during the Post-COVID Stress Test**<br>with Philip Barrett, Federico Duenas, Christopher Evans, Gonzalo Huertas, and Tannous Kass-Hanna<br>[IMF Departmental Paper No. 2026/007](https://www.imf.org/en/publications/departmental-papers-policy-papers/issues/2026/05/20/anchoring-inflation-expectations-evidence-from-latin-america-during-the-post-covid-stress-574653), Western Hemisphere Department, May 2026.
 
-        **Dominica: 2026 Article IV Consultation**<br>with Christopher Faircloth (mission chief), Sinem Kilic Celik, and Hou Wang<br>[IMF Country Report No. 26/117](https://bookstore.imf.org/books/dominica-2026-article-iv-consultation-press-release-staff-report-and-statement-by-the-executive-director-for-dominica), May 2026.
+        **Dominica: 2026 Article IV Consultation**<br>with Christopher Faircloth (mission chief), Sinem Kilic Celik, and Hou Wang<br>[IMF Country Report No. 26/117](https://www.imf.org/en/publications/cr/issues/2026/06/02/dominica-2026-article-iv-consultation-press-release-staff-report-and-statement-by-the-576479), May 2026.
 
         **Navigating a Shifting Global Environment**<br>with Camila Casas, Genevieve Lindow, and Juan Treviño<br>[*Regional Economic Outlook: Western Hemisphere*](https://www.imf.org/en/publications/reo/wh/issues/2025/10/17/regional-economic-outlook-western-hemisphere-october-2025), October 2025, Chapter 1.
 
