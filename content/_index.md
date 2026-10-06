@@ -62,17 +62,17 @@ sections:
       title: Policy Work
       subtitle: ''
       text: |-
-        **Anchoring Inflation Expectations: Evidence from Latin America during the Post-COVID Stress Test**<br>with Philip Barrett, Federico Duenas, Christopher Evans, Gonzalo Huertas, and Tannous Kass-Hanna<br>IMF Departmental Paper, Western Hemisphere Department, May 2026.<br>[Website](https://bookstore.imf.org/books/anchoring-inflation-expectations-evidence-from-latin-america-during-the-post-covid-stress-test)
+        **Anchoring Inflation Expectations: Evidence from Latin America during the Post-COVID Stress Test**<br>with Philip Barrett, Federico Duenas, Christopher Evans, Gonzalo Huertas, and Tannous Kass-Hanna<br>IMF Departmental Paper, Western Hemisphere Department, May 2026.<br>[Link](https://bookstore.imf.org/books/anchoring-inflation-expectations-evidence-from-latin-america-during-the-post-covid-stress-test)
 
-        **Dominica: 2026 Article IV Consultation**<br>with Christopher Faircloth (mission chief), Sinem Kilic Celik, and Hou Wang<br>IMF Country Report No. 26/117, May 2026.<br>[Website](https://bookstore.imf.org/books/dominica-2026-article-iv-consultation-press-release-staff-report-and-statement-by-the-executive-director-for-dominica)
+        **Dominica: 2026 Article IV Consultation**<br>with Christopher Faircloth (mission chief), Sinem Kilic Celik, and Hou Wang<br>IMF Country Report No. 26/117, May 2026.<br>[Link](https://bookstore.imf.org/books/dominica-2026-article-iv-consultation-press-release-staff-report-and-statement-by-the-executive-director-for-dominica)
 
-        **Navigating a Shifting Global Environment**<br>with Camila Casas, Genevieve Lindow, and Juan Treviño<br>*Regional Economic Outlook: Western Hemisphere*, October 2025, Chapter 1.<br>[Website](https://bookstore.imf.org/books/regional-economic-outlook-western-hemisphere-october-2025)
+        **Navigating a Shifting Global Environment**<br>with Camila Casas, Genevieve Lindow, and Juan Treviño<br>*Regional Economic Outlook: Western Hemisphere*, October 2025, Chapter 1.<br>[Link](https://bookstore.imf.org/books/regional-economic-outlook-western-hemisphere-october-2025)
 
-        **Dominica: 2025 Article IV Consultation**<br>with Christopher Faircloth (mission chief), Yibin Mu, Sinem Kilic Celik, and Hou Wang<br>IMF Country Report No. 25/130, June 2025.<br>[Website](https://www.imf.org/en/Publications/CR/Issues/2025/06/12/Dominica-2025-Article-IV-Consultation-Press-Release-and-Staff-Report-567677)
+        **Dominica: 2025 Article IV Consultation**<br>with Christopher Faircloth (mission chief), Yibin Mu, Sinem Kilic Celik, and Hou Wang<br>IMF Country Report No. 25/130, June 2025.<br>[Link](https://www.imf.org/en/Publications/CR/Issues/2025/06/12/Dominica-2025-Article-IV-Consultation-Press-Release-and-Staff-Report-567677)
 
-        **The Rise of the Silver Economy: Global Implications of Population Aging**<br>with Bertrand Gruss, Andresa Lagerborg, Diaa Noureldin, and Galip Kemal Ozhan<br>*World Economic Outlook*, April 2025, Chapter 2.<br>[Website](https://www.imf.org/en/Publications/WEO/Issues/2025/04/22/world-economic-outlook-april-2025)
+        **The Rise of the Silver Economy: Global Implications of Population Aging**<br>with Bertrand Gruss, Andresa Lagerborg, Diaa Noureldin, and Galip Kemal Ozhan<br>*World Economic Outlook*, April 2025, Chapter 2.<br>[Link](https://www.imf.org/en/Publications/WEO/Issues/2025/04/22/world-economic-outlook-april-2025)
 
-        **Understanding the Social Acceptability of Structural Reforms**<br>with Silvia Albrizio, Hippolyte Balima, Pragyan Deb, Bertrand Gruss, Colombe Ladreit, and Yu Shi<br>*World Economic Outlook*, October 2024, Chapter 3.<br>[Website](https://www.imf.org/en/publications/weo/issues/2024/10/22/world-economic-outlook-october-2024)
+        **Understanding the Social Acceptability of Structural Reforms**<br>with Silvia Albrizio, Hippolyte Balima, Pragyan Deb, Bertrand Gruss, Colombe Ladreit, and Yu Shi<br>*World Economic Outlook*, October 2024, Chapter 3.<br>[Link](https://www.imf.org/en/publications/weo/issues/2024/10/22/world-economic-outlook-october-2024)
     design:
       columns: '1'
       spacing:
