@@ -2,11 +2,14 @@ main:
   - name: About
     url: /
     weight: 10
-  - name: Research
-    url: /#research
+  - name: Publications
+    url: /#publications
     weight: 20
-  - name: IMF Work
-    url: /#imf
+  - name: Working Papers
+    url: /#working-papers
+    weight: 25
+  - name: Policy Work
+    url: /#policy
     weight: 30
   - name: Presentations
     url: /#presentations
