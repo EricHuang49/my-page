@@ -45,7 +45,7 @@ sections:
       title: Working Papers
       subtitle: ''
       text: |-
-        **Can Healthy Aging Boost Labor Supply? Evidence from Korea**<br>with Bertrand Gruss, Andresa Lagerborg, Diaa Noureldin, and Galip Kemal Ozhan<br>IMF Working Paper WP/25/260, December 2025.<br>[Abstract](/publications/healthy-aging-korea/) · [Working paper](https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025260-source-pdf.pdf) · [Published version](https://doi.org/10.23895/kdijep.2026.48.1.33) (*KDI Journal of Economic Policy* 48(1), 33–62, 2026)
+        **Can Healthy Aging Boost Labor Supply? Evidence from Korea**<br>with Bertrand Gruss, Andresa Lagerborg, Diaa Noureldin, and Galip Kemal Ozhan<br>IMF Working Paper WP/25/260, December 2025.<br>[Abstract](/publications/healthy-aging-korea/) · [Working paper](https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025260-source-pdf.pdf) · [KDI version](https://doi.org/10.23895/kdijep.2026.48.1.33)
 
         **Private Participation and its Discontents: Insights from Large-Scale Surveys**<br>with Silvia Albrizio, Hippolyte Balima, Bertrand Gruss, and Colombe Ladreit<br>IMF Working Paper WP/24/216, October 2024.<br>[Abstract](/publications/private-participation/) · [Working paper](https://www.imf.org/en/publications/wp/issues/2024/10/16/private-participation-and-its-discontents-insights-from-large-scale-surveys-556365)
 
@@ -62,17 +62,17 @@ sections:
       title: Policy Work
       subtitle: ''
       text: |-
-        **Anchoring Inflation Expectations: Evidence from Latin America during the Post-COVID Stress Test**<br>with Philip Barrett, Federico Duenas, Christopher Evans, Gonzalo Huertas, and Tannous Kass-Hanna<br>IMF Departmental Paper, Western Hemisphere Department, May 2026.<br>[PDF](https://www.imf.org/-/media/files/publications/dp/2026/english/aieelaea.pdf)
+        **Anchoring Inflation Expectations: Evidence from Latin America during the Post-COVID Stress Test**<br>with Philip Barrett, Federico Duenas, Christopher Evans, Gonzalo Huertas, and Tannous Kass-Hanna<br>IMF Departmental Paper, Western Hemisphere Department, May 2026.<br>[Website](https://bookstore.imf.org/books/anchoring-inflation-expectations-evidence-from-latin-america-during-the-post-covid-stress-test)
 
-        **Dominica: 2026 Article IV Consultation**<br>with Christopher Faircloth (mission chief), Sinem Kilic Celik, and Hou Wang<br>IMF Country Report No. 26/117, May 2026.<br>[PDF](https://www.imf.org/-/media/files/publications/cr/2026/english/1dmaea2026001.pdf)
+        **Dominica: 2026 Article IV Consultation**<br>with Christopher Faircloth (mission chief), Sinem Kilic Celik, and Hou Wang<br>IMF Country Report No. 26/117, May 2026.<br>[Website](https://bookstore.imf.org/books/dominica-2026-article-iv-consultation-press-release-staff-report-and-statement-by-the-executive-director-for-dominica)
 
-        **Navigating a Shifting Global Environment**<br>with Camila Casas, Genevieve Lindow, and Juan Treviño<br>*Regional Economic Outlook: Western Hemisphere*, October 2025, Chapter 1.<br>[PDF](https://www.imf.org/-/media/files/publications/reo/whd/2025/october/english/ch1.pdf)
+        **Navigating a Shifting Global Environment**<br>with Camila Casas, Genevieve Lindow, and Juan Treviño<br>*Regional Economic Outlook: Western Hemisphere*, October 2025, Chapter 1.<br>[Website](https://bookstore.imf.org/books/regional-economic-outlook-western-hemisphere-october-2025)
 
-        **Dominica: 2025 Article IV Consultation**<br>with Christopher Faircloth (mission chief), Yibin Mu, Sinem Kilic Celik, and Hou Wang<br>IMF Country Report No. 25/130, June 2025.<br>[PDF](https://www.imf.org/-/media/files/publications/cr/2025/english/1dmaea2025001-print-pdf.pdf)
+        **Dominica: 2025 Article IV Consultation**<br>with Christopher Faircloth (mission chief), Yibin Mu, Sinem Kilic Celik, and Hou Wang<br>IMF Country Report No. 25/130, June 2025.<br>[Website](https://www.imf.org/en/Publications/CR/Issues/2025/06/12/Dominica-2025-Article-IV-Consultation-Press-Release-and-Staff-Report-567677)
 
-        **The Rise of the Silver Economy: Global Implications of Population Aging**<br>with Bertrand Gruss, Andresa Lagerborg, Diaa Noureldin, and Galip Kemal Ozhan<br>*World Economic Outlook*, April 2025, Chapter 2.<br>[PDF](https://www.imf.org/-/media/files/publications/weo/2025/april/english/ch2.pdf)
+        **The Rise of the Silver Economy: Global Implications of Population Aging**<br>with Bertrand Gruss, Andresa Lagerborg, Diaa Noureldin, and Galip Kemal Ozhan<br>*World Economic Outlook*, April 2025, Chapter 2.<br>[Website](https://www.imf.org/en/Publications/WEO/Issues/2025/04/22/world-economic-outlook-april-2025)
 
-        **Understanding the Social Acceptability of Structural Reforms**<br>with Silvia Albrizio, Hippolyte Balima, Pragyan Deb, Bertrand Gruss, Colombe Ladreit, and Yu Shi<br>*World Economic Outlook*, October 2024, Chapter 3.<br>[PDF](https://www.imf.org/-/media/files/publications/weo/2024/october/english/ch03.pdf)
+        **Understanding the Social Acceptability of Structural Reforms**<br>with Silvia Albrizio, Hippolyte Balima, Pragyan Deb, Bertrand Gruss, Colombe Ladreit, and Yu Shi<br>*World Economic Outlook*, October 2024, Chapter 3.<br>[Website](https://www.imf.org/en/publications/weo/issues/2024/10/22/world-economic-outlook-october-2024)
     design:
       columns: '1'
       spacing:
@@ -85,7 +85,7 @@ sections:
       text: |-
         **2025:** IMF Spring Meetings Analytical Corner; Midwest Macroeconomics Meeting (Federal Reserve Bank of Cleveland)
 
-        **2024:** Bangko Sentral ng Pilipinas; Hong Kong Monetary Authority; Shanghai University of Finance and Economics; Shanghai Advanced Institute of Finance (SAIF); The Central University of Finance and Economics; Tsinghua University
+        **2024:** Bangko Sentral ng Pilipinas; Hong Kong Monetary Authority; Shanghai University of Finance and Economics; Shanghai Advanced Institute of Finance (SAIF); The Central University of Finance and Economics; Tsinghua University; International Monetary Institute; Renmin University; Asian Infrastructure Investment Bank
 
         **2023:** IMF; Boston Fed; Department of the Treasury; UIUC
 
