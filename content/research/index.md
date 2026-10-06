@@ -1,8 +1,0 @@
----
-title: "Research"
-
-date: "2019-01-01T00:00:00Z"  # Add today's date.
-
-# Homepage
-type: "widget_page"
----

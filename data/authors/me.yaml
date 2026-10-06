@@ -1,0 +1,114 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Eric (Jincheng) Huang
+  given: Eric
+  family: Huang
+  alternate: ''
+  pronunciation: ''
+role: Economist
+bio: |
+  I am an Economist at the International Monetary Fund. I received my Ph.D. in Economics from the University of Pennsylvania in 2023. My research is in macroeconomics, labor economics, and household finance. At the IMF, I work on labor markets, healthy aging, and public support for structural reforms.
+
+  *Views expressed here are my own and do not necessarily represent those of the IMF, its Executive Board, or IMF management.*
+
+affiliations:
+  - name: International Monetary Fund
+    url: https://www.imf.org/
+
+links:
+  - icon: at-symbol
+    url: mailto:ehuang@imf.org
+    label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=J0EG5n0AAAAJ
+  - icon: brands/github
+    url: https://github.com/EricHuang49
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/jincheng-eric-huang-0a01655a
+  - icon: brands/x
+    url: https://twitter.com/jc_eric_huang
+
+interests:
+  - Macroeconomics
+  - Labor Economics
+  - Household Finance
+
+education:
+  - degree: Ph.D. in Economics
+    institution: University of Pennsylvania
+    year: 2017 – 2023
+    start: 2017-09-01
+    end: 2023-05-31
+    summary: |
+      Committee: José-Víctor Ríos-Rull (chair), Dirk Krueger, Joachim Hubmer
+  - degree: B.A. in Economics (with Honors), Mathematics and Computer Science
+    institution: University of Wisconsin-Madison
+    year: 2011 – 2015
+    start: 2011-09-01
+    end: 2015-05-31
+
+experience:
+  - role: Economist (Economist Program)
+    org: International Monetary Fund
+    start: 2023-09-01
+  - role: Dissertation Intern
+    org: Federal Reserve Bank of St. Louis
+    start: 2021-08-01
+    end: 2021-08-31
+  - role: Research Assistant (for Prof. Ben Keys)
+    org: The Wharton School, University of Pennsylvania
+    start: 2020-01-01
+    end: 2021-09-30
+  - role: Teaching Assistant, Introductory Economics and Introductory Macroeconomics
+    org: University of Pennsylvania
+    start: 2018-09-01
+    end: 2019-05-31
+  - role: (Senior) Research Analyst
+    org: Federal Reserve Bank of New York
+    start: 2015-08-01
+    end: 2017-07-31
+
+skills:
+  - name: Programming & Software
+    items:
+      - label: Stata
+      - label: MATLAB
+      - label: Python
+      - label: Julia
+      - label: Java
+      - label: LaTeX
+      - label: Git
+
+languages:
+  - name: Chinese
+    label: Native
+  - name: English
+    label: Fluent
+
+awards:
+  - title: Graduate Research Fellowship
+    awarder: National Science Foundation
+    date: "2017-09-01"
+    summary: "2017–2022"
+  - title: Dissertation Fellowship
+    awarder: Federal Reserve Bank of St. Louis
+    date: "2021-08-01"
+  - title: University Fellowship
+    awarder: University of Pennsylvania
+    date: "2017-09-01"
+    summary: "2017–2021"
+  - title: Xingmei Zhang & Yongge Dai Fellowship
+    awarder: University of Pennsylvania
+    date: "2018-09-01"
+    summary: "2018–2019"
+  - title: Vault Award
+    awarder: Federal Reserve Bank of New York
+    date: "2016-10-01"
+  - title: Meek Bishop Award in Economics
+    awarder: University of Wisconsin-Madison
+    date: "2014-12-01"
+  - title: L. G. Ammerman Award in Economics
+    awarder: University of Wisconsin-Madison
+    date: "2014-05-01"
